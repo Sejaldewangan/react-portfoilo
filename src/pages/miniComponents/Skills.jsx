@@ -2,7 +2,7 @@ import { Card } from "@/components/ui/card";
 import axios from "axios";
 import React, { useEffect, useState } from "react";
 
-const Skills = () => {
+export const Skills = () => {
   const [skills, setSkills] = useState([]);
   useEffect(() => {
     const getMySkills = async () => {
@@ -98,4 +98,3 @@ const Skills = () => {
   );
 };
 
-export default Skills;
