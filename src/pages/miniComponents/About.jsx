@@ -32,8 +32,7 @@ const About = () => {
           </div>
           <div className="flex justify-center flex-col tracking-[1px] text-xl gap-5">
             <p>
-              My name is Sejal, but my followers call me kido beacause I am just an 13 year old boy I
-              am currenty in class 9th. I learn as
+              My name is Sejal I learn as
               a web developer and freelancer. My hobbies include watching
               movies, series, playing video games, and occasionally cooking.
             </p>
