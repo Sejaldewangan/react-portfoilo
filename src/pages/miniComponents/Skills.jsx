@@ -26,7 +26,7 @@ export const Skills = () => {
       <div class="flex flex-col gap-[10PX]">
         <div class="gap-10">
           <div class="flex justify-between text-lg">
-            <p class="text-xl text-[white] font-bold text-tubeLight-effect">
+            <p class="text-xl text-[white] font-bold text-tubeLight-effect tracking-[1px] dancing_text ">
               HTML
             </p>
             <p class="text-white">95%</p>
@@ -36,7 +36,7 @@ export const Skills = () => {
 
         <div>
           <div class="flex justify-between text-lg ">
-            <p class="text-white font-bold text-tubeLight-effect">CSS</p>
+            <p class="text-white font-bold text-tubeLight-effect tracking-[1px] dancing_text ">CSS</p>
             <p class="text-white">75%</p>
           </div>
           <div class="bg-white mt-[3px] mb-3 w-full lg:w-[35vw] h-[2px]"> </div>
@@ -44,7 +44,7 @@ export const Skills = () => {
 
         <div>
           <div class="flex justify-between text-lg">
-            <p class="text-white font-bold text-tubeLight-effect">JAVASCRIPT</p>
+            <p class="text-white font-bold text-tubeLight-effect tracking-[1px] dancing_text ">JAVASCRIPT</p>
             <p class="text-white">50%</p>
           </div>
           <div class="bg-white mt-[3px] mb-3 w-full lg:w-[25vw] h-[2px]"> </div>
@@ -52,7 +52,7 @@ export const Skills = () => {
 
         <div>
           <div class="flex justify-between text-lg  ">
-            <p class="text-white font-bold text-tubeLight-effect">UI Design</p>
+            <p class="text-white font-bold text-tubeLight-effect tracking-[1px] dancing_text ">UI Design</p>
             <p class="text-white">85%</p>
           </div>
           <div class="bg-white mt-[3px] mb-3 w-full lg:w-[40vw] h-[2px]"> </div>
@@ -60,7 +60,7 @@ export const Skills = () => {
 
         <div>
           <div class="flex justify-between text-lg ">
-            <p class="text-white font-bold text-tubeLight-effect">TAILWIND</p>
+            <p class="text-white font-bold text-tubeLight-effect tracking-[1px] dancing_text ">TAILWIND</p>
             <p class="text-white">90%</p>
           </div>
           <div class="bg-white mt-[3px] mb-3 w-full lg:w-[43vw] h-[2px]"> </div>
@@ -68,7 +68,7 @@ export const Skills = () => {
 
         <div>
           <div class="flex justify-between text-lg ">
-            <p class="text-white font-bold text-tubeLight-effect">REACT</p>
+            <p class="text-white font-bold text-tubeLight-effect tracking-[1px] dancing_text ">REACT</p>
             <p class="text-white">55%</p>
           </div>
           <div class="bg-white mt-[3px] mb-3 w-full lg:w-[29vw] h-[2px]"> </div>
