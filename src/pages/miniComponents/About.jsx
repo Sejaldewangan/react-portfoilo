@@ -12,7 +12,7 @@ const About = () => {
             background: "hsl(222.2 84% 4.9%)",
           }}
         >
-          ABOUT <span className="text-tubeLight-effect font-extrabold">ME</span>
+          ABOUT <span className="text-tubeLight-effect font-[new]">ME</span>
         </h1>
         <span className="absolute w-full h-1 top-7 sm:top-7 md:top-8 lg:top-11 z-[-1] bg-slate-200"></span>
       </div>
@@ -25,15 +25,14 @@ const About = () => {
         <div className="grid md:grid-cols-2 my-8 sm:my-20 gap-14">
           <div className="flex justify-center items-center">
             {/* <img
-              src="/me.jpg"
+              src="/my photo.jpg"
               alt="avatar"
-              className="bg-white p-2 sm:p-4 rotate-[25deg] h-[240px] sm:h-[340px] md:h-[350px] lg:h-[450px]"
-            // /> */}
+              className="bg-white p-2 sm:p-4 h-[240px] sm:h-[340px] md:h-[350px] lg:h-[400px]"
+             /> */}
           </div>
           <div className="flex justify-center flex-col tracking-[1px] text-xl gap-5">
             <p>
-              My name is Sejal, but my followers call me kido beacause I am just an 13 year old boy I
-              am currenty in class 9th. I learn as
+              My name is Sejal I learn as
               a web developer and freelancer. My hobbies include watching
               movies, series, playing video games, and occasionally cooking.
             </p>
