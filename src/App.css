@@ -53,3 +53,31 @@
       0 0 20px rgb(150, 150, 150);
   }
 }
+.carousel {
+  position: relative;
+  width: 800px;
+  margin: 0 auto;
+  overflow: hidden;
+}
+
+img {
+  width: 100%;
+  height: auto;
+  border-radius: 10px;
+}
+
+.next, .prev {
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+  font-size: 2rem;
+  cursor: pointer;
+  user-select: none;
+  background: rgba(0, 0, 0, 0.3);
+  color: white;
+  padding: 5px 10px;
+  border-radius: 50%;
+}
+
+.next { right: 10px; }
+.prev { left: 10px; }
