@@ -58,7 +58,12 @@ const MyApps = () => {
 
   return (
     <div className="relative w-full max-w-4xl mx-auto">
-      
+        <h1
+        className="text-tubeLight-effect text-[2rem] sm:text-[2.75rem] md:text-[3rem] 
+      lg:text-[3.8rem] tracking-[15px] dancing_text mx-auto w-fit"
+      >
+        My Apps
+      </h1>
       <div className="relative h-96 md:h-[500px] overflow-hidden rounded-2xl bg-[#020817]">
         <AnimatePresence mode="wait">
           <motion.div
